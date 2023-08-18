@@ -12,7 +12,7 @@ col1.write('''
 # MAANG Stock Price App
 ''')
 
-image_loc = "maang_logo.png"
+image_loc = "MAANG/maang_logo.png"
 col2.image(image_loc)
 
 col1.write("Stock Price and Volume Trends")
